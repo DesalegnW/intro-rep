@@ -1,2 +1,2 @@
 law 2
-law 3
+law 3 !
